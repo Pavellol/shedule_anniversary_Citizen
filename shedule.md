@@ -1,6 +1,6 @@
 <div style="
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
-                url('https://raw.githubusercontent.com/ВАШ_НИК/РЕПОЗИТОРИЙ/main/background.jpg');
+                url('https://ocdn.eu/pulscms-transforms/1/odAk9kpTURBXy8xYjNiY2YwZWQzYTU2N2ViZDdiNmRlMGIzZTYzM2E3MC5qcGeRkwXNBLDNAqPeAAGhMAE');
     background-size: cover;
     background-position: center;
     padding: 30px;
