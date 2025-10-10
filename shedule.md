@@ -1,13 +1,4 @@
-<div style="
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
-                url('https://ocdn.eu/pulscms-transforms/1/odAk9kpTURBXy8xYjNiY2YwZWQzYTU2N2ViZDdiNmRlMGIzZTYzM2E3MC5qcGeRkwXNBLDNAqPeAAGhMAE');
-    background-size: cover;
-    background-position: center;
-    padding: 30px;
-    border-radius: 15px;
-    color: white;
-    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
-">
+<div style="background: #dc2626; padding: 25px; border-radius: 10px; color: white; text-align: center;">
 
 # Расписание юбилея группы Гражданка
 
