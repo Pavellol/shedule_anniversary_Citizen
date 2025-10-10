@@ -1,3 +1,14 @@
+<div style="
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), 
+                url('https://raw.githubusercontent.com/ВАШ_НИК/РЕПОЗИТОРИЙ/main/background.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    border-radius: 15px;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+">
+
 # Расписание юбилея группы Гражданка
 
 **Дата:** 15 ноября 2023 г.
