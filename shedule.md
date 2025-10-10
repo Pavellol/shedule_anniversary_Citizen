@@ -18,4 +18,3 @@
 ### Полезные ссылки:
 - [Наш ВК](https://vk.com/grazhdankagroup)
 - [Расписание групп ГраждANка](https://na-russia.org/sankt-peterburg/group/320)
-- [Чат мероприятия в Telegram](https://t.me/event_chat)
